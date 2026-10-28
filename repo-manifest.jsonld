@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-ray/commit/09ffba5baa6ff0f694e05c0de17905ec6132c893",
       "git:hexsha": "09ffba5baa6ff0f694e05c0de17905ec6132c893",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:43:06.985470+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-ray/commit/36ff85f2d43fc3920b7f3f2cbe0564861a95d740",
