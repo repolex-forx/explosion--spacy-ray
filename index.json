@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-ray",
+  "versions": [
+    {
+      "commit": "09ffba5baa6ff0f694e05c0de17905ec6132c893",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:43:06.985923+00:00"
+    }
+  ]
+}
